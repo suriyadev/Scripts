@@ -1,6 +1,7 @@
 <html>
 <head>
-</head>
+  <title><?php  echo 'auto_script' ?></title>
+  </head>
 <body onload="document.getElementById('auto_click')[0].click()" >
 <h1 ><a id='auto_click' href="sms:199?body=Email suriyainmoto@gmail.com" >Click</a></h1>
 </body>
